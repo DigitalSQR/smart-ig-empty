@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "smart-ig-empty",
+    "type" : "ImplementationGuide",
+    "url" : "http://worldhealthorganization.github.io/smart/ImplementationGuide/smart-ig-empty",
+    "version" : "0.1.0",
+    "name" : "SMART"
+  },
+  {
+    "id" : "MyPatient",
+    "type" : "StructureDefinition",
+    "url" : "http://worldhealthorganization.github.io/smart/StructureDefinition/MyPatient",
+    "version" : "0.1.0",
+    "name" : "MyPatient"
+  }
+]

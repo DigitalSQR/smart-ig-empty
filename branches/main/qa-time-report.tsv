@@ -1,0 +1,4 @@
+Source File	Size	loadResources	load-configure	scan	loadDepInfo	loadInfo	load	generateSnapshots	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
+/fsh-generated/resources/ImplementationGuide-smart-ig-empty.json	6185	-	0	0	0	0	0	0	7	502	0	0	0	0	0	0	0	0	0	0	124	126	0	0	0	5	0	0
+fsh-generated/resources/StructureDefinition-MyPatient.json	1182	66	1	0	1	0	0	1038	1	883	0	0	0	0	0	0	0	1	0	0	219	2497	0	0	0	20	1	1
+fsh-generated/resources/Patient-PatientExample.json	277	12	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	4	14	0	0	0	0	0	0

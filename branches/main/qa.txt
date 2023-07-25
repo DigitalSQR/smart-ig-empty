@@ -1,0 +1,64 @@
+﻿SMART : Validation Results
+=========================================
+
+err = 0, warn = 4, info = 0
+IG Publisher Version: 1.3.24
+Generated Tue Jul 25 20:55:32 UTC 2023. FHIR version 4.0.1 for smart-ig-empty#0.1.0 (canonical = http://worldhealthorganization.github.io/smart)
+ Build Errors : 45 / 4 / 0
+ /github/workspace/fsh-generated/resources/ImplementationGuide-smart-ig-empty : 0 / 0 / 1
+ /github/workspace/fsh-generated/resources/Patient-PatientExample : 0 / 0 / 1
+ /github/workspace/fsh-generated/resources/StructureDefinition-MyPatient : 0 / 0 / 1
+</table>
+== n/a ==
+ERROR: /github/workspace/output/Patient-PatientExample.change.history.html#/html/body/div/div/div/p/span/a at Line 326, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/Patient-PatientExample.html#/html/body/div/div/div/p/span/a at Line 326, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/Patient-PatientExample.json.html#/html/body/div/div/div/p/span/a at Line 347, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/Patient-PatientExample.ttl.html#/html/body/div/div/div/p/span/a at Line 352, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/Patient-PatientExample.xml.html#/html/body/div/div/div/p/span/a at Line 342, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient-definitions.html#/html/body/div/div/div/p/span/a at Line 1093, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient-examples.html#/html/body/div/div/div/p/span/a at Line 393, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient-mappings.html#/html/body/div/div/div/p/span/a at Line 494, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient-testing.html#/html/body/div/div/div/p/span/a at Line 377, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient.html#/html/body/div/div/div/p/span/a at Line 1081, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient.profile.history.html#/html/body/div/div/div/p/span/a at Line 371, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient.profile.json.html#/html/body/div/div/div/p/span/a at Line 2622, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient.profile.ttl.html#/html/body/div/div/div/p/span/a at Line 1987, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient.profile.xml.html#/html/body/div/div/div/p/span/a at Line 2468, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/adapting.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/artifacts.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/business-processes.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/business-requirements.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/changes.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/codings.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/concepts.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/data-models-and-exchange.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/decision-logic.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/dependencies.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/deployment.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/dictionary.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/downloads.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/functional-requirements.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/p/span/a at Line 319, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/indicators-measures.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/indicators.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/indices.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/maps.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/non-functional-requirements.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/personas.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/reference-implementations.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/references.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/scenarios.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/security-privacy.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/sequence-diagrams.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/system-actors.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/test-data.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/testing.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/toc.html#/html/body/div/div/div/p/span/a at Line 261, column 136: The link 'license.html' for "License" cannot be resolved
+ERROR: /github/workspace/output/transactions.html#/html/body/div/div/div/p/span/a at Line 278, column 136: The link 'license.html' for "License" cannot be resolved
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated/resources/ImplementationGuide-smart-ig-empty.json ==
+== fsh-generated/resources/Patient-PatientExample.json ==
+== fsh-generated/resources/StructureDefinition-MyPatient.json ==
